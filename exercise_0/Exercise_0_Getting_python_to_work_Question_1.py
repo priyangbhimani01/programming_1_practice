@@ -9,10 +9,10 @@ B. - Here are some reason, why python version matter :
         6. -  Long-Term Maintenance: Opt for Python versions with extended support for ongoing updates.
 
     Some difference between python 2 ans python 3 :
-       1. -  Python 2 considers the “print” keyword a statement; Python 3 considers “print” a function.
-       2. -  Python 2 stores strings by ASCII; Python 3 uses Unicode.
-       3. -  Python 2 has a more complex syntax than Python 3.
-       4. -  Many Python 2 libraries aren’t forward compatible; many libraries exclusively use Python 3.
+        1. -  Python 2 considers the “print” keyword a statement; Python 3 considers “print” a function.
+        2. -  Python 2 stores strings by ASCII; Python 3 uses Unicode.
+        3. -  Python 2 has a more complex syntax than Python 3.
+        4. -  Many Python 2 libraries are not forward compatible; many libraries exclusively use Python 3.
 
 """
 
