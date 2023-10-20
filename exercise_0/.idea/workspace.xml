@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd70ee43-5ca3-4bee-b31d-6f3f640f0156" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../exercise_1/Getting_python_to_work_Question_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_1/Getting_python_to_work_Question_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_1/Getting_python_to_work_Question_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_1/Syntax_Question_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_1/Syntax_Question_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_1/Syntax_Question_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/exercise_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/Mathematics_Question_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/Mathematics_Question_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/Mathematics_Question_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/Mathematics_Question_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/Question_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise_2/Question_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
