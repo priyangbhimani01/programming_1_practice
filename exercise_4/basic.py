@@ -6,7 +6,7 @@ print(list)
 del list[2:7]
 print(list)
 
-list[3:6]=[14,15,16]
+list[3:6]=[14,15,16]      # replacing of the element
 print(list)
 
 list.reverse()

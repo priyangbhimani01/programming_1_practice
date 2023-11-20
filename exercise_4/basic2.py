@@ -1,10 +1,10 @@
-a=(1,2,3,4,5,6,7,8,9,10)
+x=[2,1,5,4,3]
+j=len(x)-1
+for index in range(j):
+    if (x[index]>=x[index+1]):
+            temp=x[index]
+            x[index]=x[index+1]
+            x[index+1]=temp
+            j=len(x)
 
-n=list(a[2:8])
-a=(1,2,n,9,10)
-print(a)
-
-print(type(n))
-
-x=a
-print(x)
+print(x)            
